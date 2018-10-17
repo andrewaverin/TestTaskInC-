@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\main.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\main.cpp(63): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Figure.cpp
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\figure.cpp(12): warning C4244: return: преобразование "double" в "const float", возможна потеря данных
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\figure.cpp(17): warning C4244: return: преобразование "double" в "const float", возможна потеря данных
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\figure.cpp(22): warning C4244: return: преобразование "double" в "const float", возможна потеря данных
+c:\users\andrew2018\documents\visual studio 2017\projects\testtaskinc++11\testtaskinc++11\figure.cpp(114): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  TestTaskInC++11.vcxproj -> C:\Users\Andrew2018\Documents\Visual Studio 2017\Projects\TestTaskInC++11\Debug\TestTaskInC++11.exe
+  TestTaskInC++11.vcxproj -> C:\Users\Andrew2018\Documents\Visual Studio 2017\Projects\TestTaskInC++11\Debug\TestTaskInC++11.pdb (Partial PDB)
